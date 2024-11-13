@@ -10,6 +10,7 @@ public class Demo
       int b=10;
       int c=20;
       int a=30;
+      int x=90;
     }
 
   }
